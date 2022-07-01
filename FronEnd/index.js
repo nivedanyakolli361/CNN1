@@ -16,9 +16,6 @@ $(function () {
     });
 });
 
-/*  ==========================================
-    SHOW UPLOADED IMAGE NAME
-* ========================================== */
 var input = document.getElementById( 'upload' );
 var infoArea = document.getElementById( 'upload-label' );
 
